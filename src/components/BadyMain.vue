@@ -1,5 +1,5 @@
 <template>
-    <bady>
+    <div>
 <div class="wrapper">
 		<!-- pop-up start-->
 		
@@ -738,7 +738,7 @@
     </div>
 
     <script src="js/script.js"></script>
-    </bady>
+</div>
 </template>
 
 <script setup>
