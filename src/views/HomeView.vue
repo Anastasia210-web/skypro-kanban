@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import BadyMain from '@/components/BadyMain.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <BadyMain />
   </main>
 </template>
