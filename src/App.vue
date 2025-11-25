@@ -1,5 +1,5 @@
 <script setup>
-import BadyMain from './components/BadyMain.vue';
+import BadyMain from 'vue-router';
 
 
 </script>
@@ -10,5 +10,4 @@ import BadyMain from './components/BadyMain.vue';
 </template>
 
 <style scoped>
-
 </style>
